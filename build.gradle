@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+mainClassName = 'Main' // Cambia esto por el nombre de tu clase principal
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Tus dependencias aquí
+}
